@@ -1,0 +1,27 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+Models/.venv/   ✅ ADD THIS
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Streamlit cache
+.streamlit/
+
+# ML models (IMPORTANT)
+*.pkl
+*.h5
+*.pt
+
+# Data files (optional if large)
+data/
+datasets/
+
+# OS files
+.DS_Store
+Thumbs.db
